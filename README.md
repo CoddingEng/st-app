@@ -1,1 +1,1 @@
-https://codding-st-app.streamlit.app/
+https://st-app-coding.streamlit.app/
